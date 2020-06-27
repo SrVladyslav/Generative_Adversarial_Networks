@@ -3,7 +3,7 @@ There are a lot of applications of GANs, but here I will implement some Proof of
 
 
 ## Content
-1- GAN implemented with Linear Layers on MNIST dataset
+1- GAN-MNIST: GAN implemented with Linear Layers on MNIST dataset
   - Optimizer Discriminator: Adam , learning rate= 0.0002, betas= (0.4, 0.999).
   - Optimizer Generator: Adam , learning rate= 0.0002, betas= (0.4, 0.999).
   - Criterion: Binary Cross Entropy
