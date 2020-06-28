@@ -9,5 +9,5 @@ There are a lot of applications of GANs, but here I will implement some Proof of
   - Criterion: Binary Cross Entropy
   - 30 Epochs
 
-2- GAN-CELEBA: The trained Generator to use it on CELEBA dataset, personalized to launch from GAN_GUI.py,
+2- GAN-CELEBA: Trained Generator to use it on CELEBA dataset, personalized to launch from GAN_GUI.py,
 DCGAN explained on < https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html >
